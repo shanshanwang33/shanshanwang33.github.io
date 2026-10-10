@@ -1,0 +1,19 @@
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-wordmark" href="{{ '/' | relative_url }}">Shanshan Wang<span class="wordmark-dot" aria-hidden="true">.</span></a>
+    <nav class="desktop-navigation" aria-label="Main navigation">
+      {% for link in site.data.navigation.main %}
+      <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+    <details class="mobile-navigation">
+      <summary>Menu <span aria-hidden="true">+</span></summary>
+      <nav aria-label="Mobile navigation">
+        {% for link in site.data.navigation.main %}
+        <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+    </details>
+  </div>
+</header>
