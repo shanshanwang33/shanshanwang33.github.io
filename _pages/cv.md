@@ -8,9 +8,9 @@ redirect_from:
   - /resume/
 ---
 
-<p class="section-intro">Shanshan Wang · Department of Statistics · Western Michigan University</p>
+**Shanshan Wang** · Department of Statistics · Western Michigan University
 
-<p class="publication-meta">Updated September 2026</p>
+Updated September 2026
 
 <a href="mailto:shanshan.1.wang@wmich.edu">shanshan.1.wang@wmich.edu</a> · <a href="https://scholar.google.com/citations?user=Tyy_Nr0AAAAJ">Google Scholar</a> · <a href="https://www.linkedin.com/in/shanshan-wang-23b567267/">LinkedIn</a>
 

@@ -20,8 +20,9 @@ repository               : "shanshanwang33/shanshanwang33.github.io"
 
 # Professional profile; personal phone numbers are not published.
 author:
+  avatar: "shanshan-wang.svg"
   name: "Shanshan Wang"
-  bio: "Assistant Professor of Statistics"
+  bio: "Assistant Professor<br>Department of Statistics"
   employer: "Western Michigan University"
   location: "Kalamazoo, Michigan"
   email: "shanshan.1.wang@wmich.edu"
