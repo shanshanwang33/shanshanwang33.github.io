@@ -9,8 +9,6 @@ redirect_from:
   - /resume/
 ---
 
-[Curriculum Vitae (PDF)]({{ '/files/Shanshan_Wang_CV.pdf' | relative_url }}) · Updated September 2026
-
 ## Education
 
 **Ph.D. in Applied Mathematics (Statistics track)** · May 2026<br>
@@ -34,3 +32,5 @@ HuaQiao University · Fujian, China
 - **Actuarial Exam FM** (Financial Mathematics) · December 2018
 - **Actuarial Exam STAM** (Short-Term Actuarial Mathematics) · February 2020
 - **Actuarial Exam IFM** (Investment and Financial Markets) · March 2021
+
+[Curriculum Vitae (PDF)]({{ '/files/Shanshan_Wang_CV.pdf' | relative_url }})

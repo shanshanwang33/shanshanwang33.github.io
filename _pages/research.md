@@ -39,7 +39,3 @@ Christou, E., Donkor, P., Hogshead, N., Solea, E., Song, J., Stitz, A., and **Wa
 3. **UNCC Math Day Symposium.** October 2024.
 4. **EcoSta 2024** — 7th International Conference on Econometrics and Statistics, Beijing Normal University, Beijing, China. July 2024. *Invited talk.*
 5. **Graduate Research Symposium.** March 2024.
-
-### Conference service
-
-**Organizer and Chair of an invited session:** *Recent Advances in Functional Data Modeling and Analysis.* CFE-CMStatistics 2026, HTW Berlin, University of Applied Sciences, Berlin, Germany. December 2026. *Upcoming.*

@@ -5,7 +5,7 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-- [About me]({{ '/' | relative_url }})
+- [Home]({{ '/' | relative_url }})
 - [Research]({{ '/research/' | relative_url }})
 - [Teaching]({{ '/teaching/' | relative_url }})
 - [More about me]({{ '/more-about-me/' | relative_url }})

@@ -6,12 +6,12 @@ Website: https://shanshanwang33.github.io
 
 ## Content
 
-- `_pages/about.md`: introduction and research interests
-- `_pages/research.md`: publications, manuscripts, software, presentations, and conference service
+- `_pages/about.md`: home page with an introduction and research interests
+- `_pages/research.md`: publications, manuscripts, software, and presentations
 - `_pages/teaching.md`: courses and terms
 - `_pages/more-about-me.md`: education, certifications, and a link to the full CV
-- `_pages/contact.md`: email, phone, office, mailing address, and professional profiles
-- `files/Shanshan_Wang_CV.pdf`: downloadable CV, updated September 2026
+- `_pages/contact.md`: email, phone, and office
+- `files/Shanshan_Wang_CV.pdf`: downloadable CV
 - `_config.yml`: site identity and professional links
 - `_data/navigation.yml`: navigation
 - `assets/css/main.scss`: layout and styling
