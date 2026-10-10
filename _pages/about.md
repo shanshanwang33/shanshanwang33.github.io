@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor in the Department of Statistics at **Western Michigan University**, where I joined in August 2026. My research interests include quantile regression, sufficient dimension reduction, and functional data analysis.
+I am an Assistant Professor of Statistics at **Western Michigan University**. I received my Ph.D. in Applied Mathematics from the **University of North Carolina at Charlotte**, where I worked with Dr. Eliana Christou. Before that, I earned my M.A. in Actuarial Science from **Ball State University**.
 
-I received my Ph.D. in Applied Mathematics, with a Statistics track, from the **University of North Carolina at Charlotte** in May 2026, advised by Dr. Eliana Christou. My dissertation is titled *Dimension Reduction of Conditional Quantiles for Functional Data with Its Extension*.
+My research interests include functional data analysis, sufficient dimension reduction, and quantile regression. I am particularly interested in developing statistical methods for complex, high-dimensional data, with applications in biomedical and health research.
 
 You can find my publications and ongoing projects on the [Research]({{ '/research/' | relative_url }}) page, and my education, certifications, and full CV on the [More about me]({{ '/more-about-me/' | relative_url }}) page.
