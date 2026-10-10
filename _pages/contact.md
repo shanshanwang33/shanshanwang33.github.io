@@ -10,6 +10,4 @@ excerpt: "Contact Shanshan Wang in the Department of Statistics at Western Michi
 
 **Email:** [shanshan.1.wang@wmich.edu](mailto:shanshan.1.wang@wmich.edu)
 
-**Phone:** [+1 (765) 760-1814](tel:+17657601814)
-
 **Office:** 5514 Everett Tower

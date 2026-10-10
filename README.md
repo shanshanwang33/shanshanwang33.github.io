@@ -10,7 +10,7 @@ Website: https://shanshanwang33.github.io
 - `_pages/research.md`: publications, manuscripts, software, and presentations
 - `_pages/teaching.md`: courses and terms
 - `_pages/more-about-me.md`: education, certifications, and a link to the full CV
-- `_pages/contact.md`: email, phone, and office
+- `_pages/contact.md`: email and office
 - `files/Shanshan_Wang_CV.pdf`: downloadable CV
 - `_config.yml`: site identity and professional links
 - `_data/navigation.yml`: navigation
@@ -18,7 +18,7 @@ Website: https://shanshanwang33.github.io
 
 Update the December 2026 and Spring 2027 upcoming labels when those events have passed. Publication statuses should also be maintained. Replace `files/Shanshan_Wang_CV.pdf` to update the downloadable CV.
 
-The profile currently uses an SW initials image. To add a portrait, upload it to `images/` and set `author.avatar` in `_config.yml` to its filename.
+The profile portrait is stored in `images/shanshan-wang.jpg`. To change it, replace the image or update `author.avatar` in `_config.yml`.
 
 ## Run locally
 
