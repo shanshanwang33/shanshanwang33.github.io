@@ -6,8 +6,6 @@ author_profile: true
 excerpt: "Statistics and mathematics courses taught at Western Michigan University, UNC Charlotte, and Ball State University."
 ---
 
-My teaching spans data mining, statistics, probability, and mathematics at the graduate and undergraduate levels.
-
 ## Western Michigan University
 
 - **STAT 5850:** Applied Data Mining · Graduate · Fall 2026

@@ -18,7 +18,7 @@ url                      : https://shanshanwang33.github.io # The base hostname 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shanshanwang33/shanshanwang33.github.io"
 
-# Professional profile; personal phone numbers are not published.
+# Professional profile
 author:
   avatar: "shanshan-wang.svg"
   name: "Shanshan Wang"
